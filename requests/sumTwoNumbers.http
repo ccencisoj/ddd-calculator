@@ -1,0 +1,1 @@
+POST http://localhost:4000/sum?numberA=12&numberB=50
